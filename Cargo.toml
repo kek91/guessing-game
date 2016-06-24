@@ -1,0 +1,7 @@
+[package]
+name = "GuessingGame"
+version = "0.1.0"
+authors = ["kek <kek@teknix.no>"]
+
+[dependencies]
+rand="0.3.0"
