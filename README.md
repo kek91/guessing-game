@@ -11,6 +11,6 @@ Please note you must have Rust installed with the cargo package manager.
 Download here: https://rust-lang.org
 
 
-- clone repo
+- `git clone https://github.com/kek91/guessing-game.git`
 - run `cargo build` and run the resulting binary in target dir
 - or run `cargo run` to build and run the binary automatically in current terminal
